@@ -1,0 +1,8 @@
+  /* 가로바 스타일 */
+.custom-hr {
+  width: 50%;
+  height: 1px;
+  border: none;
+  background-color: #5e5e65;
+  margin: 20px auto; /* 가운데 정렬 */
+}
