@@ -40,7 +40,7 @@ date: 2025-03-16 00:00:00 +0800
 
 <div>
 <p>
-  <img src="/assets/img/network/Dynamic.png" alt="Web Server" width="60%" style="display: block; margin: auto;">
+  <img src="/assets/img/network/dynamic.png" alt="Web Server" width="60%" style="display: block; margin: auto;">
 </p>
   <h1>📌 WAS 란?</h1>
 <ul>
@@ -69,7 +69,7 @@ date: 2025-03-16 00:00:00 +0800
 
 <div>
   <h1>📌 Spring 요청 처리 흐름</h1>
-  <img src="/assets/img/network/Spring3.png" alt="Spring Request Flow" width="100%" style="display: block; margin: auto;">
+  <img src="/assets/img/network/wasServletContainer.png" alt="Spring Request Flow" width="100%" style="display: block; margin: auto;">
 <br>
   <ul>
     <li>
