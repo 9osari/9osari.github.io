@@ -6,3 +6,27 @@
   background-color: #5e5e65;
   margin: 20px auto; /* 가운데 정렬 */
 }
+
+
+/* 코드 블록 배경색과 기본 스타일 */
+pre {
+  background-color: #2e2e2e;
+  color: #f8f8f2;
+  padding: 1em;
+  border-radius: 8px;
+  overflow-x: auto;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+pre code {
+  background: none;
+  color: inherit;
+}
+
+code {
+  background-color: #2e2e2e;
+  color: #f8f8f2;
+  padding: 5px;
+  border-radius: 3px;
+}
